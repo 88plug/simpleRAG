@@ -22,17 +22,6 @@
 ```bash
 pip install -r requirements.txt
 ```
-(Example `requirements.txt`)
-```text
-streamlit
-langchain
-langchain-community
-langchain-huggingface
-langchain-ollama
-chromadb
-requests
-torch
-```
 
 You'll also need Ollama installed and running locally.
 
